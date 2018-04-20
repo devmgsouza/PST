@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">PET Smart Tag</string>
+
+
+    <string name="url_servidor2">http://ec2-54-207-110-122.sa-east-1.compute.amazonaws.com:8080/PSTSHOP/rest/shop</string>
+
+
+    <string name="id_web">930162221344-23u1ibpmqqodb0grt8pli4hmf7m1an5r.apps.googleusercontent.com</string>
+    <string name="chave_cliente">SpqhSxFrzCkIfNroHu5PwQon</string>
+    <string name="API_KEY">AIzaSyBBzIx0vm75an6oYqqsudPbmPyQT0aKu9M</string>
+    <string name="facebook_app_id">541066172927429</string>
+    <string name="fb_login_protocol_scheme">fb541066172927429</string>
+
+    <string name="mp_pk">APP_USR-e53d247a-31fe-45ec-9ea2-33e1334fe01d</string>
+
+
+    <string name="mp_pk_tmp">TEST-ec36bb43-9666-4632-8e40-15ebafb5b171</string>
+
+
+    <array name="tab_name">
+        <item>Home</item>
+        <item>Loja</item>
+        <item>Perfil</item>
+    </array>
+
+
+    <array name="shop_tab_name">
+        <item>Carrinho</item>
+        <item>Minhas Compras</item>
+    </array>
+
+    <integer-array name="img_id_arr">
+        <item>@drawable/image_login_1</item>
+        <item>@drawable/image_login_2</item>
+        <item>@drawable/image_login_3</item>
+        <item>@drawable/image_login_4</item>
+    </integer-array>
+
+
+    <!-- BUTTON TOOLBAR -->
+    <string name="add_pet" translatable="false">Registrar</string>
+    <string name="edit_profile" translatable="false">Editar</string>
+    <string name="logout" translatable="false">Sair</string>
+    <string name="my_shopping" translatable="false">Minhas compras</string>
+    <string name="my_shopping_cart" translatable="false">Carrinho</string>
+    <string name="save" translatable="false">Salvar</string>
+    <string name="settings" translatable="false">Configuração</string>
+
+    <!-- BUTTONS -->
+    <string name="edit">Editar</string>
+    <string name="add_pic">Adicionar foto</string>
+    <string name="change_pic">Alterar foto</string>
+    <string name="gotomarket">Acessar a loja</string>
+    <string name="pet_identify">Identificar um Pet</string>
+    <string name="login_facebook">Login com Facebook</string>
+    <string name="login_google">Login com Google</string>
+    <string name="delete">Excluir</string>
+    <string name="last_location">Última localização</string>
+    <string name="see_pet_profile">Ver Perfil</string>
+    <string name="add">Adicionar</string>
+    <string name="font_size">Aumentar tamanho da fonte</string>
+    <string name="clear">Limpar</string>
+
+    <!-- LABEL -->
+    <string name="name" translatable="false">Nome</string>
+    <string name="qr_code">TAG</string>
+    <string name="lastname" translatable="false">Sobrenome</string>
+    <string name="email" translatable="false">Endereço de email</string>
+    <string name="fone_contact" translatable="false">Telefone para contato</string>
+    <string name="full_address" translatable="false">Endereço completo</string>
+    <string name="city" translatable="false">Cidade</string>
+    <string name="uf" translatable="false">UF</string>
+    <string name="mail">email válido</string>
+    <string name="fone_temp">___________</string>
+    <string name="data_mask">__/__/____</string>
+    <string name="add_detail">Rua, Número, Bairro, etc..</string>
+    <string name="bday">Data de nascimento</string>
+    <string name="name_pet">Nome do seu Pet</string>
+    <string name="gender">Gênero</string>
+    <string name="nr_registro">Num. Registro</string>
+    <string name="data_compra">Data da compra</string>
+    <string name="status_compra">Status</string>
+    <string name="see_detail">Ver detalhes</string>
+    <string name="qtd">Quantidade:</string>
+    <string name="especie">Espécie</string>
+    <string name="price">Preço</string>
+    <string name="raca">Raça</string>
+    <string name="pet_perdido">Seu Pet está perdido?</string>
+    <string name="pet_vivo">Seu Pet está vivo?</string>
+    <string name="faleceu">Faleceu</string>
+    <string name="data_falecimento">Data de falecimento</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="continue_cadastro">Continuar cadastrando?</string>
+    <string name="ok">Ok</string>
+    <string name="dontknow">Não sei a data</string>
+    <string name="understand">Entendi</string>
+    <string name="cancel">Cancelar</string>
+    <string name="mais_tarde">Mais tarde</string>
+    <string name="atention">Atenção</string>
+    <string name="owner">Proprietário</string>
+    <string name="address">Endereço</string>
+    <string name="sifra">R$</string>
+    <string name="see">Ver</string>
+    <string name="description">Descrição</string>
+    <string name="health">Cuidados médicos</string>
+    <string name="select_care">O que deseja registrar?</string>
+    <string name="data_aplicacao">Realizado em</string>
+    <string name="data_reaplicacao">Realizar novamente em</string>
+    <string name="obs">Observação</string>
+    <string name="saiba_mais">Saiba mais</string>
+    <string name="porte">Porte</string>
+    <string name="origem">Origem da raça</string>
+    <string name="peso_medio">Peso médio</string>
+    <string name="temperamento">Temperamento</string>
+    <string name="doencas_comuns">Doenças comuns</string>
+    <string name="size">Tamanho</string>
+    <string name="color">Cor</string>
+    <string name="total">Total:</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="consulta_cep">Calcular valor do frete</string>
+    <string name="search">Pesquisar</string>
+    <string name="version">Versão</string>
+    <string name="calc">Calcular</string>
+    <string name="cep_entrega">CEP</string>
+    <string name="valor_total">Valor total</string>
+    <string name="pagamento_mp">Efetuar pagamento com:</string>
+    <string name="numero_residencia">Adicione os dados complementares ou complete o endereço caso os dados acima estejam incompletos:</string>
+    <!-- MENSAGENS -->
+    <string name="promo">Quer participar das nossas promoções e sorteios? Então siga a gente nas redes sociais</string>
+    <string name="personal_info" translatable="false">Informações pessoais</string>
+    <string name="necessary_permission">Estes recurss são importantes para o funcionamento do aplicativo</string>
+    <string name="necessary_permission_gps">Estes recursos são fundamentais para o bom funcionamento do Aplicativo</string>
+    <string name="important">Importante</string>
+    <string name="error">Erro</string>
+    <string name="select_pet">Selecione qual Pet receberá este presente:</string>
+    <string name="internet_off">Você precisa estar conectado a internet para acessar. Deseja se conectar agora?</string>
+    <string name="server_down">Que pena, nosso servidor está em manutenção no momento. Por favor, tente novamente
+    em alguns minutos.</string>
+    <string name="touch_to_save">Toque na imagem para salvar</string>
+    <string name="name_requerid">Necessário preencher um nome para seu Pet =)</string>
+    <string name="continue_to">Continuar</string>
+    <string name="ops">Ops...</string>
+    <string name="error_pet_register">Erro ao cadastrar o Pet</string>
+    <string name="error_camera">Seu dispositivo não possui câmera ou ela não está disponivel</string>
+    <string name="message_dog_qrcode">Este TAG contém todas as informações necessárias para que
+        alguém possa ajudar seu Pet a voltar para casa caso ele esteja perdido. Que tal pendura-lo
+        na coleira dele? Nós temos coleiras e pingentes personalizados que podem ser adquiridas
+        em nossa loja nesse mesmo Aplicativo. Porque não dá uma olhadinha? Assim você ajuda a
+        proteger quem te ama mais do que a si próprio.</string>
+    <string name="remove_pet">Deseja apagar o registro</string>
+    <string name="remove_item">Deseja apagar este item?</string>
+    <string name="remove_pet_p2">Ao apagar este registro, a TAG não será mais válido e seu pet não poderá ser
+    identificado. Deseja continuar com a exclusão?</string>
+    <string name="searching_title">Busca ativado</string>
+    <string name="about">Sobre</string>
+
+    <string name="pp">Políticas de privacidade</string>
+    <string name="privacity_pol">Política de privacidade</string>
+    <string name="fale_conosco_wp">Dúvidas? fale conosco via Whatsapp. Teremos imenso prazer em ajuda-lo</string>
+    <string name="searching_msg">Uma mensagem contendo a localização de seu Pet sera enviada
+    para você toda vez que alguem fizer a leitura da TAG dele.</string>
+    <string name="our_email">pst_contato@petsmarttag.com</string>
+    <string name="our_site">www.petsmarttag.com</string>
+    <string name="duvidas_sugestoes">Dúvidas ou Sugestões? Envie-nos um e-mail, relate tudo o que desejar
+    e seremos o mais breve possível em responder. Nosso e-mail é:</string>
+    <string name="acesse_o_site">ou se preferir, acesse nosso site através do link abaixo, la temos um formulário de contato.</string>
+    <string name="finder_message">Oi, eu estou perdido(a). Você pode me ajudar a voltar para casa?
+    Abaixo tem algumas informações do meu dono(a). Você poderia ligar para ele(a) vir me buscar? Eu ficarei
+    muito feliz !!</string>
+    <string name="hint_health">Veterinário, anti-rábica, carrapaticida, vermífugo</string>
+    <string name="obs_health">Sempre registre qualquer comportamento diferente do seu Pet, principalmente
+    após aplicação de medicamentos e vacinas
+    </string>
+    <string name="approved_pay">Pagamento aprovado!</string>
+    <string name="pay_message">Obrigado por adqurir um de nossos produtos! Em breve você receberá um e-mail contendo
+    a nota fiscal e o código de rastreamento do produto! Ele será encaminhado para:</string>
+    <string name="back">Voltar</string>
+
+
+    <!-- ORIENTAÇÔES -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_identificando">Identificando um Pet</string>
+    <string name="login_identificarpet">Aqui você poderá ler uma TAG e ver o perfil do Pet com fotos e dados do seu proprietário
+        e ainda ajudá-lo a voltar para casa</string>
+    ,
+    <string name="login_registrando">Registre seus Pets</string>
+    <string name="login_dados_atualizados">Mantenha seus dados atualizados!</string>
+    <string name="login_dados_atualizar">Seus dados apareceram sempre que alguem acessar o perfil do seu Pet. Por isso, é bom mante-los atualizados</string>
+    <string name="login_registrar">Você pode registrar quantos Pets quiser e ainda gerar uma TAG exclusiva para cada um deles. Também poderá imprimir
+    esta TAG e colar na coleira ou onde preferir, assim ele ficará mais protegido</string>
+    <string name="first_access">Com este App você poderá registrar seu Pet, incluindo fotos e dados médicos
+    e ainda ganhar um perfil na Web exclusivo para ele! Tudo isso é GRÁTIS!</string>
+    <string name="welcome">Bem Vindo!</string>
+    <string name="login_market">Você poderá gerar uma TAG gratuita no Aplicativo ou adquirir uma plaquinha personalizada
+    em nossa loja.</string>
+
+
+</resources>

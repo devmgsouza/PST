@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "930162221344",
+    "firebase_url": "https://meupet-d29ed.firebaseio.com",
+    "project_id": "meupet-d29ed",
+    "storage_bucket": "meupet-d29ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930162221344:android:0ed181c114c83248",
+        "android_client_info": {
+          "package_name": "meupet.android.soasd.com.br.meupet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930162221344-lpb83famen2mmpvi9k2gkip9e285ta01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "meupet.android.soasd.com.br.meupet",
+            "certificate_hash": "04901dc9da36b2a5949354bf36d9a933dee12544"
+          }
+        },
+        {
+          "client_id": "930162221344-43pqevo9r9ee29f7bjje4s8i2cg81nqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "meupet.android.soasd.com.br.meupet",
+            "certificate_hash": "3d02559ac5cad13b7b2cf557848646c51fc8d036"
+          }
+        },
+        {
+          "client_id": "930162221344-23u1ibpmqqodb0grt8pli4hmf7m1an5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmKcJysTLYG4aYAnGAe89EdZfm_Nxr6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930162221344-23u1ibpmqqodb0grt8pli4hmf7m1an5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

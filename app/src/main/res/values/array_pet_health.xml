@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="health">
+        <item>Antipulgas e carrapaticidas</item>
+        <item>Banho e Tosa</item>
+        <item>Medicamento</item>
+        <item>Consulta médica</item>
+        <item>Vacina</item>
+        <item>Vermífugo</item>
+    </string-array>
+</resources>

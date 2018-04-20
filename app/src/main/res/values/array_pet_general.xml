@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="especie">
+        <item>Cachorro</item>
+        <item>Gato</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Fêmea</item>
+        <item>Macho</item>
+    </string-array>
+
+<!--
+    <string-array name="dog_list">
+        <item>	Sem Raça Definida	</item>
+        <item>	Afghan Hound	</item>
+        <item>	Akita	</item>
+        <item>	Australian Cattle Dog (Boiadeiro Australiano)	</item>
+        <item>	Basenji	</item>
+        <item>	Basset Hound	</item>
+        <item>	Beagle	</item>
+        <item>	Bernese Mountain Dog	</item>
+        <item>	Bichon Frisé	</item>
+        <item>	Bloodhound	</item>
+        <item>	Border Collie	</item>
+        <item>	Boxer	</item>
+        <item>	Buldogue Frances	</item>
+        <item>	Buldogue Inglês	</item>
+        <item>	Cane Corso	</item>
+        <item>	Cão de Crista Chinês	</item>
+        <item>	Cavalier King Charles Spaniel	</item>
+        <item>	Chihuahua	</item>
+        <item>	Chow Chow	</item>
+        <item>	Cocker Spaniel Americano	</item>
+        <item>	Collie	</item>
+        <item>	Dachshund	</item>
+        <item>	Dálmata	</item>
+        <item>	Doberman	</item>
+        <item>	Dogo Argentino	</item>
+        <item>	Dogue Alemão	</item>
+        <item>	Dogue de Bordeaux	</item>
+        <item>	Fila	</item>
+        <item>	Fox Paulistinha	</item>
+        <item>	Golden Retriever	</item>
+        <item>	Greyhound	</item>
+        <item>	Griffon de Bruxelas	</item>
+        <item>	Husky Siberiano	</item>
+        <item>	Jack Russell Terrier	</item>
+        <item>	Kuvasz	</item>
+        <item>	Labrador	</item>
+        <item>	Leão da Rodésia – Rhodesian Ridgeback	</item>
+        <item>	Lhasa Apso	</item>
+        <item>	Malamute do Alasca	</item>
+        <item>	Maltês	</item>
+        <item>	Mastiff	</item>
+        <item>	Mastim Napolitano	</item>
+        <item>	Mastim Tibetano	</item>
+        <item>	Old English Sheepdog	</item>
+        <item>	Papillon	</item>
+        <item>	Pastor Alemão	</item>
+        <item>	Pastor Australiano	</item>
+        <item>	Pastor Belga	</item>
+        <item>	Pastor Branco Suíço	</item>
+        <item>	Pastor de Shetland	</item>
+        <item>	Pastor Maremano Abruzês	</item>
+        <item>	Pequinês	</item>
+        <item>	Pinscher	</item>
+        <item>	Pitbull	</item>
+        <item>	Pointer Inglês	</item>
+        <item>	Poodle Gingante	</item>
+        <item>	Poodle Médio	</item>
+        <item>	Poodle Toy	</item>
+        <item>	Pug	</item>
+        <item>	Rottweiler	</item>
+        <item>	Samoieda	</item>
+        <item>	São Bernardo	</item>
+        <item>	Schnauzer Gigante	</item>
+        <item>	Schnauzer Miniatura	</item>
+        <item>	Schnauzer Standard	</item>
+        <item>	Setter Irlandês	</item>
+        <item>	Shar Pei	</item>
+        <item>	Shiba Inu	</item>
+        <item>	Shih Tzu	</item>
+        <item>	Spitz Alemão	</item>
+        <item>	Spitz Japonês	</item>
+        <item>	Staffordshire Bull Terrier	</item>
+        <item>	Veadeiro Pampeano	</item>
+        <item>	Weimaraner	</item>
+        <item>	Welsh Corgi Cardigan	</item>
+        <item>	Welsh Corgi Pembroke	</item>
+        <item>	West Highland White Terrier	</item>
+        <item>	Whippet	</item>
+        <item>	Yorkshire Terrier	</item>
+    </string-array>
+
+    <string-array name="cat_list">
+        <item>	Sem Raça Definida	</item>
+        <item>	Abissínio	</item>
+        <item>	American Shorthair	</item>
+        <item>	Angorá	</item>
+        <item>	Ashera	</item>
+        <item>	Australian Mist	</item>
+        <item>	Balinês	</item>
+        <item>	Bobtail Americano	</item>
+        <item>	Bobtail Japonês	</item>
+        <item>	Bombaim	</item>
+        <item>	Brazilian Shorthair	</item>
+        <item>	British Shorthair	</item>
+        <item>	Chartreux	</item>
+        <item>	Colorpoint Shorthair	</item>
+        <item>	Cornish Rex	</item>
+        <item>	Curl Americano Pelo Curto	</item>
+        <item>	Devon Rex	</item>
+        <item>	European Shorthair	</item>
+        <item>	Exótico	</item>
+        <item>	Himalaio	</item>
+        <item>	Javanês	</item>
+        <item>	Korat	</item>
+        <item>	LaPerm	</item>
+        <item>	Maine Coon	</item>
+        <item>	Manx	</item>
+        <item>	Mau Egípcio	</item>
+        <item>	Norueguês da Floresta	</item>
+        <item>	Ocicat	</item>
+        <item>	Pixiebob	</item>
+        <item>	Ragdoll	</item>
+        <item>	Russian Blue	</item>
+        <item>	Sagrado da Birmânia	</item>
+        <item>	Savannah	</item>
+        <item>	Scottish Fold	</item>
+        <item>	Selkirk Rex Shorthair	</item>
+        <item>	Siamês	</item>
+        <item>	Siberiano	</item>
+        <item>	Singapura	</item>
+        <item>	Somali	</item>
+        <item>	Sphynx	</item>
+        <item>	Thai	</item>
+        <item>	Tonquinês	</item>
+        <item>	Toyger	</item>
+        <item>	Turkish Van	</item>
+    </string-array>
+-->
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_excluir"
+        android:title="@string/delete" >
+    </item>
+    <item android:id="@+id/menu_perfil"
+        android:title="@string/see_pet_profile" >
+    </item>
+
+
+</menu>
