@@ -360,12 +360,12 @@ public class PetViewFragment extends BaseFragment {
 
     private void loadSpinner(int especie){
         if (especie == 1) {
-            adapterPetRaca = ArrayAdapter.createFromResource(getContext(), R.array.dog_list,
-                    android.R.layout.simple_spinner_dropdown_item);
+            adapterPetRaca = new ArrayAdapter<>(getContext(), android.R.layout.simple_spinner_dropdown_item,
+                    new LocalDatabase(getContext()).buscarRacas(1));
 
         } else {
-            adapterPetRaca = ArrayAdapter.createFromResource(getContext(), R.array.cat_list,
-                    android.R.layout.simple_spinner_dropdown_item);
+            adapterPetRaca = new ArrayAdapter<>(getContext(), android.R.layout.simple_spinner_dropdown_item,
+                    new LocalDatabase(getContext()).buscarRacas(2));
         }
         spinnerPetRaca.setAdapter(adapterPetRaca);
         spinnerPetRaca.setEnabled(false);
